@@ -8,14 +8,18 @@
   "extension": "",
 
   "plugins": [
-    "theme-comscore",
+    "theme-default",
     "disqus",
     "prism",
     "-highlight",
     "baidu",
     "tbfed-pagefooter",
     "github-buttons",
-    "anchor-navigation-ex-toc@0.0.9"
+    "page-toc-button",
+    "back-to-top-button",
+    "sitemap-general",
+    "favicon@^0.0.2",
+    "splitter"
   ],
 
   "pluginsConfig": {
@@ -32,7 +36,7 @@
     },
     "prism": {
       "css": [
-        "prismjs/themes/prism-okaidia.css"
+        "prismjs/themes/prism.css"
       ]
     },
     "baidu": {
@@ -46,13 +50,17 @@
     "github-buttons": {
       "buttons": [{
         "user": "JalanJiang",
-        "repo": "Notes-On-Linux-Shell-Scripting-Cookbook",
+        "repo": "laravel5.6-notes",
         "type": "star",
         "size": "small"
       }]
     },
-    "anchor-navigation-ex-toc": {
-      "showLevel": false
+    "sitemap-general": {
+      "prefix": "http://jalan.space/laravel5.6-notes/"
+    },
+    "favicon": {
+      "shortcut": "favicon.ico",
+      "bookmark": "favicon.ico"
     }
   },
 
