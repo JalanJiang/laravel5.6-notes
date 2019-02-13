@@ -4,6 +4,7 @@
 <url> <loc>http://jalan.space/laravel5.6-notes/base/middle_ware.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://jalan.space/laravel5.6-notes/base/http_request.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://jalan.space/laravel5.6-notes/base/http_response.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://jalan.space/laravel5.6-notes/db/eloquent/appends.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://jalan.space/laravel5.6-notes/progress/artisan.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://jalan.space/laravel5.6-notes/other/refer_to.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 </urlset>
