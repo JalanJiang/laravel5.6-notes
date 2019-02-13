@@ -12,6 +12,9 @@
 
 ## 数据库
 
+### Eloquent ORM
+
+* [添加自定义值](/db/eloquent/appends.md)
 
 ## 其他扩展
 
